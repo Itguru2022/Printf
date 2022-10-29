@@ -1,7 +1,3 @@
-s (30 sloc)  587 Bytes
-
-
-
 #include "main.h"
 
 
